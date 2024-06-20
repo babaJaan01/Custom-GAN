@@ -1,6 +1,7 @@
 # Custom-GAN
 A Generative Adversarial Network (GAN)
 
+Example below with the function x^2 + 10 (can change to more complex functions, however more complex functions require more iterations)
 0 Iterations:
 
 ![0k](https://github.com/babaJaan01/Custom-GAN/assets/98251668/a364cd6b-227c-4d61-b590-f3d4a58ae24c)
